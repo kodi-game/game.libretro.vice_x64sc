@@ -29,6 +29,7 @@
 		<summary lang="en_GB">Commodore - C64 (VICE x64sc, accurate)</summary>
 		<summary lang="es_ES">Commodore - C64 (VICE x64sc, preciso)</summary>
 		<summary lang="ga">Commodore - C64 (VICE x64sc, cruinn)</summary>
+		<summary lang="ru_RU">Commodore — C64 (VICE x64sc, точный)</summary>
 		<summary lang="sv_SE">Commodore - C64 (VICE x64sc, exakt)</summary>
 		<summary lang="zh_CN">Commodore - C64（VICE x64sc，精确）</summary>
 		<description lang="da_DK">VICE står for Versatile Commodore Emulator. Den nuværende version emulerer C64, C64DTV, C128, VIC20, praktisk talt alle PET-modeller, PLUS4 og CBM-II (aka C610/C510).</description>
